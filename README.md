@@ -28,9 +28,13 @@
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/>
 </a> 
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/>
+</a> 
 <a href="https://www.nvidia.com/en-us/gpu-cloud/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/NVIDIA_logo.svg" alt="nvidia ngc" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/NVIDIA_GTC_2022_logo.svg" alt="nvidia ngc" width="40" height="40"/>
 </a>
+
 <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/NLP_workflow.png" alt="nlp" width="40" height="40"/>
 </a>
