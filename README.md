@@ -1,7 +1,8 @@
 ![MasteHead](https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif)
 <h1 align="center">Hi 👋, I'm Aashish S Kamath</h1>
 <h3 align="center">Empowering Intelligence: B.Tech Trek in AI & ML</h3>
-<center><img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5603AQGac8_CWy26Uw/profile-displayphoto-shrink_800_800/0/1699197197066?e=2147483647&v=beta&t=tlAQPJMUjMSaxTf02j4OWNfdfyhZEt8uG4GkIF2HX18"></center>
+<center><img align="right" alt="Coding" width="400" src="![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+"></center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashish-kamath&label=Profile%20views&color=0e75b6&style=flat" alt="aashish-kamath" /> </p>
 
