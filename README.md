@@ -1,14 +1,27 @@
 ![MasteHead](https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif)
+
 <h1 align="center">Hi 👋, I'm Aashish S Kamath</h1>
 <h3 align="center">Empowering Intelligence: B.Tech Trek in AI & ML</h3>
-<center><img align="right" alt="Coding" width="400" src="![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-"></center>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aashish-kamath&label=Profile%20views&color=0e75b6&style=flat" alt="aashish-kamath" /> </p>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="400">
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashish-kamath" alt="aashish-kamath" /></a> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aashish-kamath&label=Profile%20views&color=0e75b6&style=flat" alt="aashish-kamath" />
+</p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aashish-kamath" alt="aashish-kamath" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://twitter.com/" target="blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+</p>
 
 - 💬 Ask me about **Python, HTML, CSS, JavaScript, DSA**
 
