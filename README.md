@@ -50,7 +50,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashish-kamath&show_icons=true&locale=en&layout=compact" alt="aashish-kamath" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashish-kamath&show_icons=true&locale=en" alt="aashish-kamath" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashish-kamath&" alt="aashish-kamath" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aashish-kamath&show_icons=true&locale=en" alt="Aashish's GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashish-kamath&" alt="Aashish's GitHub Streak" />
+</p>
