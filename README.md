@@ -33,13 +33,6 @@
   </p>
 </div>
 
-<style>
-@keyframes flicker {
-  0%   { opacity: 1; }
-  50%  { opacity: 0.8; text-shadow: 0 0 10px #00ffff, 0 0 20px #ff00ff; }
-  100% { opacity: 1; text-shadow: 0 0 20px #00ffff, 0 0 30px #ff00ff; }
-}
-</style>
 
 
 
