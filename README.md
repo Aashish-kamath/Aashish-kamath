@@ -9,6 +9,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="400" alt="Hacker Mode" />
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="400" alt="AI Mind" />
+</p>
 
 ---
 
