@@ -5,9 +5,15 @@
 
 <h1 align="center">Hey there! 👋 I'm Aashish S Kamath</h1>
 <h3 align="center">🚀 Empowering Intelligence | AI & ML Explorer | B.Tech Student</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Terminal Glitch" />
-</p>
+<div align="center" style="margin-top: 20px;">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" 
+       alt="Terminal Glitch" 
+       width="500" 
+       style="border-radius: 15px; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.6);">
+  <h2 style="color: #00ffff; font-family: 'Courier New', Courier, monospace; margin-top: 10px;">
+    ⚡ Entering the Matrix...
+  </h2>
+</div>
 
 
 
