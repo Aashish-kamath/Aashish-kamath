@@ -7,7 +7,7 @@
 <h3 align="center">🚀 Empowering Intelligence | AI & ML Explorer | B.Tech Student</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="400" alt="Hacker Mode" />
 </p>
 
 ---
