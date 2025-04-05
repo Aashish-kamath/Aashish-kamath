@@ -6,7 +6,7 @@
 <h1 align="center">Hey there! 👋 I'm Aashish S Kamath</h1>
 <h3 align="center">🚀 Empowering Intelligence | AI & ML Explorer | B.Tech Student</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="400" alt="Cyberpunk City" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Terminal Glitch" />
 </p>
 
 
