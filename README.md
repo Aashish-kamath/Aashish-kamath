@@ -5,15 +5,41 @@
 
 <h1 align="center">Hey there! 👋 I'm Aashish S Kamath</h1>
 <h3 align="center">🚀 Empowering Intelligence | AI & ML Explorer | B.Tech Student</h3>
-<div align="center" style="margin-top: 20px;">
+<div align="center" style="margin-top: 30px; background: linear-gradient(135deg, #0f0f0f 0%, #1f1f1f 100%); padding: 30px; border-radius: 20px; box-shadow: 0 0 30px rgba(0, 255, 255, 0.3);">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" 
        alt="Terminal Glitch" 
        width="500" 
-       style="border-radius: 15px; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.6);">
-  <h2 style="color: #00ffff; font-family: 'Courier New', Courier, monospace; margin-top: 10px;">
+       style="border-radius: 20px; box-shadow: 0 0 25px rgba(0, 255, 255, 0.7);">
+  <h2 style="
+      color: #00ffff;
+      font-family: 'Courier New', Courier, monospace;
+      margin-top: 20px;
+      font-size: 28px;
+      background: linear-gradient(90deg, #00ffff, #ff00ff);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      animation: flicker 2s infinite alternate;
+    ">
     ⚡ Entering the Matrix...
   </h2>
+  <p style="
+      font-family: 'Orbitron', sans-serif;
+      color: #39ff14;
+      font-size: 16px;
+      margin-top: 10px;
+      text-shadow: 0 0 10px #39ff14;
+    ">
+    Welcome to my digital realm – where AI meets aesthetics.
+  </p>
 </div>
+
+<style>
+@keyframes flicker {
+  0%   { opacity: 1; }
+  50%  { opacity: 0.8; text-shadow: 0 0 10px #00ffff, 0 0 20px #ff00ff; }
+  100% { opacity: 1; text-shadow: 0 0 20px #00ffff, 0 0 30px #ff00ff; }
+}
+</style>
 
 
 
