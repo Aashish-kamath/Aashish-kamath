@@ -5,10 +5,10 @@
 
 <h1 align="center">Hey there! 👋 I'm Aashish S Kamath</h1>
 <h3 align="center">🚀 Empowering Intelligence | AI & ML Explorer | B.Tech Student</h3>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Dev Mode ON" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Speed Coder" />
 </p>
+
 
 ---
 
